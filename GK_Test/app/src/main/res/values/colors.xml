@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#118fe3</color>
+    <color name="colorPrimaryDark">#0e5889</color>
+    <color name="colorAccent">#499fdb</color>
+    <color name="black">#000000</color>
+    <color name="clr_btn_login">#499fdb</color>
+    <color name="white">#FFF</color>
+    <color name="green">#0F0</color>
+    <color name="yellow">#FF0</color>
+    <color name="red">#F00</color>
+
+</resources>

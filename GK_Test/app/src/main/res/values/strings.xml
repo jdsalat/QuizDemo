@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GK Test</string>
+    <string name="title_quiz">GK Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_submit">Submit</string>
+    <string name="ok">Ok</string>
+    <string name="thank_you_message">Thank You for Taking Quiz.</string>
+    <string name="upload_data_message">Your data is uploaded to server successfully.</string>
+    <string name="save_data_base_message">Currently your data connection is off. So data is saved in local database. It will be uploaded to server once network is available.</string>
+    <string name="loading_message">Please wait...</string>
+    <string name="error_uploading_data">We are facing issue right now please try again later.</string>
+
+
+</resources>
